@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
 - <b>Personal Website</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a Portfolio Website using HTML CSS JS](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>  Currently working on:</h2>
