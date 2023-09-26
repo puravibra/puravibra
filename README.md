@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roberto! <br/><a href="https://github.com/cuenr12">Computer Engineering Student | Finance Graduate</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Roberto! <br/><a href="https://github.com/cuenr12">Computer Engineering Student | Finance Graduate</a></h1>
 
 <h2>👨‍💻 Portfolio Projects:</h2>
 
